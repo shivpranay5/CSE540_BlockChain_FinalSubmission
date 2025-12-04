@@ -24,7 +24,6 @@
 10. [Project Structure](#project-structure)
 11. [Smart Contract Functions](#smart-contract-functions)
 12. [Future Enhancements](#future-enhancements)
-13. [License](#license)
 
 ---
 
