@@ -635,12 +635,6 @@ This is an academic project for CSE 540 at Arizona State University. For questio
 
 ---
 
-## 📄 License
-
-MIT License - See LICENSE file for details
-
----
-
 ## 🙏 Acknowledgments
 
 - **Arizona State University** - CSE 540 Course
@@ -649,17 +643,6 @@ MIT License - See LICENSE file for details
 - **Ethereum Foundation** - Blockchain platform
 - **IPFS** - Decentralized storage
 - **Hardhat** - Development framework
-
----
-
-## 📞 Contact
-
-**Group 3 - CSE 540**
-- Arizona State University
-- Engineering Blockchain Applications
-- Fall 2024
-
-**GitHub Repository:** [https://github.com/shivpranay5/Supply_Chain_Provenance_System](https://github.com/shivpranay5/Supply_Chain_Provenance_System)
 
 ---
 
@@ -674,5 +657,3 @@ MIT License - See LICENSE file for details
 - **Documentation Pages**: Comprehensive
 
 ---
-
-**Built with ❤️ by Group 3 for CSE 540**
